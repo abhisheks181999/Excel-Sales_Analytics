@@ -16,6 +16,6 @@
 ## Finance Report :
 
 - **Project Objective:**
-  **1** Create a Profit & Loss  (P&L) reports by [fiscal year] & [month]
+  **1** Create a Profit & Loss  (P&L) reports by [fiscal year](https://github.com/abhisheks181999/Excel-Sales_Analytics/blob/main/P%20%26%20L%20Statements%20by%20Fiscal%20Year.pdf) & [month]
 
   
